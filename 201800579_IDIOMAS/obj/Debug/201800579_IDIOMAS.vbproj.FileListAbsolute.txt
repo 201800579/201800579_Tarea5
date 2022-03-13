@@ -1,0 +1,13 @@
+C:\Users\ferna\source\repos\201800579_IDIOMAS\bin\Debug\201800579_IDIOMAS.exe.config
+C:\Users\ferna\source\repos\201800579_IDIOMAS\bin\Debug\201800579_IDIOMAS.exe
+C:\Users\ferna\source\repos\201800579_IDIOMAS\bin\Debug\201800579_IDIOMAS.pdb
+C:\Users\ferna\source\repos\201800579_IDIOMAS\bin\Debug\201800579_IDIOMAS.xml
+C:\Users\ferna\source\repos\201800579_IDIOMAS\obj\Debug\201800579_IDIOMAS.vbproj.AssemblyReference.cache
+C:\Users\ferna\source\repos\201800579_IDIOMAS\obj\Debug\201800579_IDIOMAS.vbproj.SuggestedBindingRedirects.cache
+C:\Users\ferna\source\repos\201800579_IDIOMAS\obj\Debug\_201800579_IDIOMAS.Form1.resources
+C:\Users\ferna\source\repos\201800579_IDIOMAS\obj\Debug\_201800579_IDIOMAS.Resources.resources
+C:\Users\ferna\source\repos\201800579_IDIOMAS\obj\Debug\201800579_IDIOMAS.vbproj.GenerateResource.cache
+C:\Users\ferna\source\repos\201800579_IDIOMAS\obj\Debug\201800579_IDIOMAS.vbproj.CoreCompileInputs.cache
+C:\Users\ferna\source\repos\201800579_IDIOMAS\obj\Debug\201800579_IDIOMAS.exe
+C:\Users\ferna\source\repos\201800579_IDIOMAS\obj\Debug\201800579_IDIOMAS.xml
+C:\Users\ferna\source\repos\201800579_IDIOMAS\obj\Debug\201800579_IDIOMAS.pdb
